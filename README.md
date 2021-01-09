@@ -10,7 +10,7 @@ In the project directory, you can run:
 To run server:
 ### `cd ./server`
 ### `npm run dev` / `yarn dev`
-or
+To run client app:
 ### `cd ./client`
 ### `npm run start` / `yarn start`
 
